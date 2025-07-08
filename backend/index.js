@@ -25,7 +25,8 @@ app.use(express.json());
 // Using CORS
 app.use(
   cors({
-    origin: [process.env.API_URL, "http://localhost:3000"],
+    origin: ["https://fabulous-malabi-997048.netlify.app", "http://localhost:3000"],
+    credentials: true,
   })
 );
 
