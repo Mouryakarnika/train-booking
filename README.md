@@ -2,6 +2,8 @@
 
 Train Booking is a MERN stack application that allows users to book seat for a train. The app includes an attractive UI and multiple features.
 
+<br/>
+
 ## Features
 
 - Robust authentication system
@@ -19,6 +21,16 @@ Train Booking is a MERN stack application that allows users to book seat for a t
 - Default seed for mongodb
 
 <br/>
+
+### 🌐 Live Demo
+
+- **Frontend (Netlify):**  
+  🔗 [https://fabulous-malabi-997048.netlify.app](https://fabulous-malabi-997048.netlify.app)
+
+- **Backend (Render):**  
+  🔗 [https://train-booking-backend-jg60.onrender.com/api/train](https://train-booking-backend-jg60.onrender.com/api/train)
+
+  <br/>
 
 ## Technology Used
 
